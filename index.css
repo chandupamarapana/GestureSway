@@ -1,0 +1,44 @@
+#main-contents {
+    margin-top: 20px;
+    display: flex;
+}
+.content-left {
+    flex: 0 0 60%; /* 60% width */
+   
+    text-align: left;
+    margin: 20px 20px;
+}
+.content-left p {
+    margin-top: 20px;
+    
+}
+.content-right {
+    flex: 0 0 40%; /* 40% width */
+}
+.about-button{
+  text-align: center;
+  margin-bottom: 10px;
+}
+#vision-mission{
+    display: flex;
+    background-color: beige;
+    margin-bottom: 35px;
+}
+.vision-mission-left{
+    flex: 0 0 60%; /* 60% width */
+    text-align: left;
+    margin: 20px 20px;
+
+}
+.vision-mission-right{
+    flex: 1; /* 40% width */ 
+   
+}
+.vision-mission-right img {
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 45px;
+    margin-bottom: 10px;
+    
+}

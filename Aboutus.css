@@ -1,0 +1,12 @@
+#about-us{
+    margin: 50px; 
+    text-align: justify;
+}
+
+.about-us-section1 p span{
+    font-size: 35px;
+}
+.about-us-section2{
+    text-align: center;
+    margin: 50px;
+}
